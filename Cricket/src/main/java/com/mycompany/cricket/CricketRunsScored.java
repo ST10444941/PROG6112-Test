@@ -15,10 +15,7 @@ public class CricketRunsScored extends Cricket{
         this.totalRuns = totalRuns;
     }
      
-    System.out.println("The cricketer name: " + batsmansName);
-    batsmansName = input.nextLine();
-     
-
     
 }
+
 
